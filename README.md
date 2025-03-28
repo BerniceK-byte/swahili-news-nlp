@@ -88,6 +88,9 @@ afya (health)
 
 To achieve this, we will preprocess the text data to remove noise, tokenize, and normalize the text, followed by building a classification model. To ensure a clear, reproducible, and scalable approach, we will implement the preprocessing steps within an Scikit-learn Pipeline.
 
+### Exploratory Data Analysis
+
+From the above wordcloud, we can observe that the frequent words in this category include: kulipa, kodi, benki, kampuni etc.
 ## Modeling  
 
 - We have trained several machine learning models: **Naive Bayes, Logistic Regression, Linear SVC, and Random Forest**.  
