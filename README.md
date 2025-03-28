@@ -90,6 +90,8 @@ To achieve this, we will preprocess the text data to remove noise, tokenize, and
 
 ### Exploratory Data Analysis
 
+![Image](https://github.com/user-attachments/assets/1edfa64e-7405-4928-8366-57d08caec815)
+
 From the above wordcloud, we can observe that the frequent words in this category include: kulipa, kodi, benki, kampuni etc.
 ## Modeling  
 
