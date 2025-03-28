@@ -92,6 +92,9 @@ To achieve this, we will preprocess the text data to remove noise, tokenize, and
 
 ![Image](https://github.com/user-attachments/assets/e7c2a26b-e9bc-41a2-bccd-bbf2c9714262)
 
+From the above kitaifa was the most frequent category with approximately 10,000 sample
+
+
 ![Image](https://github.com/user-attachments/assets/1edfa64e-7405-4928-8366-57d08caec815)
 
 From the above wordcloud, we can observe that the frequent words in this category include: kulipa, kodi, benki, kampuni etc.
