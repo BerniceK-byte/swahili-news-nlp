@@ -5,3 +5,7 @@ data/train.csv
 data/test.csv
 
 data/cleaned_text.csv
+
+data/cleaned_text2.csv
+
+data/train_v0.2.csv
