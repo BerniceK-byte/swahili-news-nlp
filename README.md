@@ -130,9 +130,9 @@ Finally, we fine-tuned a BERT-base-uncased model for sequence classification.
 
 Performance Results:
 
-Accuracy: 89.41%
+Accuracy: 89.56%
 
-F1 Score: 89.34%
+F1 Score: 89.09%
 
 The small gap between accuracy and F1 score indicates that the model effectively balances precision and recall.
 
