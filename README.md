@@ -101,7 +101,7 @@ From the above wordcloud, we can observe that the frequent words in this categor
 ## Modeling  
 
 - We have trained several machine learning models: **Naive Bayes, Logistic Regression, Linear SVC, and Random Forest**.  
-- Due to the complexity of our data, our machine learning models were all **overfitting**.  
+- Due to the complexity of our data, our machine learning models were all **underfitting**.  
 - We have applied **SVD**, but it yielded **no significant results**.  
 - We hyperparameter-tuned **Naive Bayes, Logistic Regression, and Linear SVC** and attempted **ensembling**, but that too did not salvage the models.  
 
